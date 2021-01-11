@@ -603,13 +603,15 @@ h3{
     }
 
     .arrow-up {
-        position: absolute;
-        top: 7px;
-        left: 1px;
         width: 30px;
         height: 30px;
         line-height: 30px;
         right: 16px;
         bottom: 25px;
+    }
+    .arrow-up .fa-arrow-up{
+        position: absolute;
+        top: 8px;
+        left: 1px;
     }
 }

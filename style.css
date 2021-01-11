@@ -609,9 +609,10 @@ h3{
         right: 16px;
         bottom: 25px;
     }
+
     .arrow-up .fa-arrow-up{
         position: absolute;
-        top: 8px;
-        left: 1px;
+        top: 7px;
+        left: 7px;
     }
 }
